@@ -62,4 +62,4 @@ _Trân trọng_,
 
 **_Lý Trí Đức_**
 
-![Cover của LeeLogg](https://i.imgur.com/lxFhdEz.png)
+<!-- ![Cover của LeeLogg](https://i.imgur.com/lxFhdEz.png) -->
