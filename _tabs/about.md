@@ -13,7 +13,9 @@ _A lazy sketch of myself._
 
 _Hello World!_
 
-My name is **Lý Trí Đức** (pronounced as _Lee Tree Duke_), I'm happy to be called _Mike_ or _Lee_. But I'm not what matters, so you can find out more about me in [my personal website](https://ductrl.github.io), or you can contact me in linked socials on the left column of your screen (you may have to scroll down).
+<!-- My name is **Lý Trí Đức** (pronounced as _Lee Tree Duke_), I'm happy to be called _Mike_ or _Lee_. But I'm not what matters, so you can find out more about me in [my personal website](https://ductrl.github.io), or you can contact me in linked socials on the left column of your screen (you may have to scroll down). -->
+
+You can call me Lee. My identity is not important, but all I can ask for is that you'll find my thoughts interesting. You can reach out to me at my [Facebook page](https://www.facebook.com/leeloggg/) (drop a follow while you are there!), but if there's nothing else, enjoy!
 
 # About LeeLogg
 
@@ -27,7 +29,7 @@ Finally, I know my limited writing ability will confuse English readers a lot, b
 
 _Best_,
 
-**_Lý Trí Đức_**
+**_Lee_**
 
 <!-- ![LeeLogg's Cover](https://i.postimg.cc/q7Tb6GfJ/LeeLogg-cover.png) -->
 
@@ -40,7 +42,9 @@ _Avatar do mình vẽ bản thân (một cách lười biếng)._
 
 _Thân chào bạn đọc,_
 
-Tên của mình là **Lý Trí Đức** (3 dấu sắc đấy, thú vị nhỉ), những bạn thích dùng tên tiếng Anh có thể gọi mình là _Mike_ hoặc _Lee_. Các bạn muốn tìm hiểu rõ hơn về mình có thể ghé thăm [web cá nhân của mình](https://ductrl.github.io), tài khoản Github, Facebook, LinkedIn và email của mình đã được link vào icon ở cột bên trái (có thể bạn phải scroll xuống).
+<!-- Tên của mình là **Lý Trí Đức** (3 dấu sắc đấy, thú vị nhỉ), những bạn thích dùng tên tiếng Anh có thể gọi mình là _Mike_ hoặc _Lee_. Các bạn muốn tìm hiểu rõ hơn về mình có thể ghé thăm [web cá nhân của mình](https://ductrl.github.io), tài khoản Github, Facebook, LinkedIn và email của mình đã được link vào icon ở cột bên trái (có thể bạn phải scroll xuống). -->
+
+Tên của mình là Lee. Bạn không cần phải biết mình là ai đâu, nên hãy xem như nó là bí mật và đừng tìm hiểu. Nếu bạn thích những dòng suy nghĩ của mình, bạn có thể nhắn tin trực tiếp cho mình tại [Page Facebook](https://www.facebook.com/leeloggg/) (và hãy để lại 1 follow nếu bạn muốn!). Mình không muốn quá dài dòng, nên mong bạn tận hưởng những mẩu blog nho nhỏ này!
 
 # Về LeeLogg
 
@@ -48,7 +52,7 @@ Tên của mình là **Lý Trí Đức** (3 dấu sắc đấy, thú vị nhỉ)
 
 Mình không phải là người viết giỏi, cũng chưa bao giờ viết blog, mình cũng không xem mình là một người quá thông minh hay hiểu biết. Dù vậy, viết vài bài blog cũng đâu mất gì nhỉ!
 
-Do đó, **LeeLogg** là nơi mà mình dùng để lưu lại những thông tin hữu ích không chỉ cho mình mà cho những người cần nó và hi vọng rằng, sẽ được gặp và liên hệ những con người có cùng hứng thú với những chủ đề mà mình viết trong trang blog này. Hiện tại, mình đang hứng thú nhất vào chủ đề **Trí tuệ nhân tạo AI (cụ thể là máy học)**, **tâm lý học**, và những mẹo hữu ích trong cuộc sống, nhưng nội dung mình viết sẽ không bị giới hạn chỉ trong những thứ này.
+Do đó, **LeeLogg** là nơi mà mình dùng để lưu lại những thông tin hữu ích không chỉ cho mình mà cho những người cần nó và hi vọng rằng, sẽ được gặp và liên hệ những con người có cùng hứng thú với những chủ đề mà mình viết trong trang blog này. Hiện tại, mình đang hứng thú nhất vào chủ đề **Trí tuệ nhân tạo AI (cụ thể là máy học)**, **tâm lý học**, **âm nhạc**, và những mẹo hữu ích trong cuộc sống, nhưng nội dung mình viết sẽ không bị giới hạn chỉ trong những thứ này.
 
 **Mong bạn đọc sẽ nhiệt tình đón nhận!**
 
