@@ -64,6 +64,6 @@ Nếu có thời gian, đừng ngần ngại liên lạc mình để thảo lu�
 
 _Trân trọng_,
 
-**_Lý Trí Đức_**
+**_Lee_**
 
 <!-- ![Cover của LeeLogg](https://i.imgur.com/lxFhdEz.png) -->
